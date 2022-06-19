@@ -74,10 +74,10 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;Minhas Estatísticas
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnvc&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnvc&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincolnvc&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=vue)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc" alt="Linguagens que mais usei"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=nord_bright)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact" alt="Linguagens que mais usei"/>
 
