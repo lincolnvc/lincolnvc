@@ -50,8 +50,6 @@
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
 
 
-<br><br>
-
 <!--
 🐦 [Twitter](https://twitter.com/lincolnvc)<br>
 💼 [Linkedin](https://www.linkedin.com/in/lincolndecastro)<br>
