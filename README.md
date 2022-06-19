@@ -68,12 +68,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact)
 
 -->
 ### ⚙️ &nbsp;Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=lincolnvc&layout=compact)
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=vue)
