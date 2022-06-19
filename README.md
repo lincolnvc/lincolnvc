@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact&title_color=#000000&card_width=300" alt="Linguagens que mais usei"/>
+
 -->
 ### ⚙️ &nbsp;Minhas Estatísticas
 
@@ -79,5 +81,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincolnvc&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=nord_bright)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact&title_color=#000000&card_width=300" alt="Linguagens que mais usei"/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact&title_color=#000000&card_width=300)
