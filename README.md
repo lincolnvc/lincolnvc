@@ -81,4 +81,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincolnvc&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=nord_bright)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&title_color=#000000&card_width=250)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact&title_color=#000000&card_width=250)
