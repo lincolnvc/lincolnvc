@@ -74,10 +74,10 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;Minhas Estatísticas
 
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lincolnvc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=vue)
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 
