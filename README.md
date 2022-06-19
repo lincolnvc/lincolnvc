@@ -1,5 +1,5 @@
 ### Bem vindo ao @lincolnvc! 👋
-[Site:www.lincoln.dev.br](http://www.lincoln.dev.br) 
+[www.lincoln.dev.br](http://www.lincoln.dev.br) 
 
 ### Minhas Redes Sociais
 
