@@ -54,6 +54,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 
 
 <!--
