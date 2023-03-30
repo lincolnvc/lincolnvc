@@ -58,9 +58,9 @@
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
 ![MacOS](https://img.shields.io/badge/-macOS-05122A?style=flat&logo=macos)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 
 <!--
