@@ -13,7 +13,7 @@
 <a href="https://instagram.com/lincolnvc" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lincolnvc-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/lincolnvc" target="_blank">
+<a href="https://youtube.com/@LincolnDeveloper" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lincolnvc-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
