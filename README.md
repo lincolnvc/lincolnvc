@@ -22,6 +22,9 @@
 
 ![SAP](https://img.shields.io/badge/-SAP-05122A?style=flat&logo=sap)&nbsp;
 ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -35,9 +38,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
